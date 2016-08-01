@@ -42,3 +42,5 @@ captures/
 obj/Debug/__AndroidLibraryProjects__.zip
 obj
 packages
+*.userprefs
+*.nupkg

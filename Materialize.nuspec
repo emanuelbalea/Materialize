@@ -2,7 +2,7 @@
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <metadata>
     <id>Materialize.Xamarin.Droid</id>
-    <version>0.9.0.0</version>
+    <version>0.9.0.1</version>
     <title>Materialize.Xamarin.Droid</title>
     <authors>Mikepenz, EmanuelBalea</authors>
     <description>C# bindings for https://github.com/mikepenz/Materialize</description>
@@ -24,6 +24,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Projects\Materialize\bin\Release\Materialize.dll" target="lib\MonoAndroid403" />
+    <file src="./bin/Release/Materialize.dll" target="lib\MonoAndroid403" />
   </files>
 </package>
